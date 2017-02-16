@@ -2,6 +2,10 @@
   "name": "compare_keys",
   "version": "1.0.0",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bubuzzz/compare_keys.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -9,6 +13,6 @@
   "devDependencies": {
     "mocha": "^2.2.5"
   },
-  "author": "",
+  "author": "Thai Tran",
   "license": "ISC"
- }
+}
