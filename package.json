@@ -1,0 +1,14 @@
+{
+  "name": "compare_keys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "author": "",
+  "license": "ISC"
+ }
