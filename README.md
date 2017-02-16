@@ -2,7 +2,9 @@ Compare keys (only) inside an object
 
 * Installation
 
+```javascript
 npm install --save compare_keys
+```
 
 * Usage
 
